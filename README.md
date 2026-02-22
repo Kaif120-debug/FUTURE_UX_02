@@ -44,22 +44,9 @@ Simplified 3-step booking flow
 
 Login → Home → Service → Doctor → Date → Time → Summary → Payment → Success
 
-🖼 Screenshots
 
-## 📱 App Screenshots
 
-### 🏠 Home Screen
-![Home Screen](screenshots/home.png)
 
-### 🦷 Service Selection
-![Service Screen](screenshots/service.png)
 
-### 👩‍⚕️ Doctor Selection
-![Doctor Screen](screenshots/doctor.png)
 
-### 📅 Booking Flow
-![Booking Screen](screenshots/booking.png)
-
-### 💳 Payment Screen
-![Payment Screen](screenshots/payment.png)
 
